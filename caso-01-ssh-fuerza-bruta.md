@@ -12,8 +12,6 @@ Qué se reportó: Marcelo (sistemas) encontró en el servidor un usuario que nad
 
 **¿Qué pasó?** 
 
-**¿Qué pasó?**
-
 Compromiso confirmado. Un atacante entró por fuerza bruta a SSH, robó la documentación de los clientes y dejó una puerta trasera para volver a entrar.
 
 * 03:02–03:19 (10/11): fuerza bruta por SSH desde 203.0.113.88, con 628 intentos fallidos de un total de 668 en la semana.  
