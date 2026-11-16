@@ -12,8 +12,6 @@ What was reported: On Friday 11/13 at 09:40, Carla (accounting/admin) called sup
 
 **What happened?**
 
-**What happened?**
-
 **09:12: Carla received a phishing email (with an urgent message)**
 
 **09:14: her computer (10.10.5.23) downloads Factura\_Nov2026.zip from facturacion-online-ar.com (203.0.113.77).**
